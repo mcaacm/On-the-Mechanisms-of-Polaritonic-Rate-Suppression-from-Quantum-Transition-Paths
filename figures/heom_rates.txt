@@ -1,0 +1,13 @@
+# HEOM population transfer data between the committor eigenstates at default light-matter coupling over a short time period
+# omega_s/omega_c HAS NOT BEEN MULTIPLIED BY RATIO, population transfer after 10000 au, population transfer after 2500 au
+
+0.85 1.308690e-04 3.673491e-05	
+0.90 1.154783e-04 3.249442e-05	
+0.93 3.655441e-05 1.028074e-05	
+0.945 6.912416e-05 1.943536e-05	
+0.96 4.634091e-05 1.305657e-05
+0.975 6.691731e-05 1.881017e-05	
+0.99 3.090055e-05 8.711311e-06	
+1.0 9.753874e-05 2.739935e-05
+1.01 1.096109e-04 3.078381e-05
+1.05 1.303772e-04 3.660956e-05

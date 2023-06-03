@@ -1,0 +1,14 @@
+# Secular Redfield population transfer data between the committor eigenstates at default light-matter coupling over a short time period
+# omega_s/omega_c HAS NOT BEEN MULTIPLIED BY RATIO, population transfer after 10000 au, population transfer after 2500 au
+
+
+0.85 1.57502509E-04 3.97718577E-05 
+0.90 1.34684509E-04 3.39822109E-05 
+0.93 4.11974979E-05 1.03715483E-05 
+0.945 7.82262141E-05 1.97101817E-05 
+0.96 4.97972032E-05 1.25283750E-05 
+0.975 7.43557757E-05  1.87376409E-05 
+0.99 3.52957359E-05 8.87392162E-06 
+1.0 1.02353188E-04 2.58107284E-05 
+1.01 1.13302878E-04 2.85781316E-05 
+1.05 1.29686610E-04 3.27183443E-05 
